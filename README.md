@@ -30,3 +30,12 @@ Pour utiliser la fonction de recherche de livres, exécutez le programme et sais
 
    ```shell
    git clone https://github.com/votre-utilisateur/votre-repo.git
+
+2. Installer la librairie requests
+
+   ```shell
+   pip install requests
+
+Ce programme a été écris par Melvin Gueneau
+
+N'hésitez pas à modifier ou à améliorer ce programme selon vos besoins.
